@@ -1,11 +1,5 @@
 # React-Summary
 
-Deep Learner Spark.E
-
-I'll help you understand the main concepts from the YouTube Video (Part 2) document in a simple, child-friendly way! 🚀✨
-
-Let's break down some cool React concepts for you:
-
 1. Accordion Component 🎈
 Imagine you have a magical box that can open and close. When you click on it, it shows you a secret message inside! That's what an accordion does in React. It's like a peek-a-boo game for information.
 
